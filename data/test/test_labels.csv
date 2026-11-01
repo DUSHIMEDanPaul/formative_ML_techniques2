@@ -1,0 +1,13 @@
+file,start_s,end_s,activity
+Test_one-2026-10-29_14-00-08.zip,2,10,Still
+Test_one-2026-10-29_14-00-08.zip,13,21,Standing
+Test_one-2026-10-29_14-00-08.zip,22,30,Walking
+Test_one-2026-10-29_14-00-08.zip,31,40,Jumping
+Test_one-2026-10-29_14-00-08.zip,41,51,Still
+Test_one-2026-10-29_14-00-08.zip,54,61,Standing
+Test_two-2026-10-29_14-04-43.zip,0,10,Standing
+Test_two-2026-10-29_14-04-43.zip,11,19,Jumping
+Test_two-2026-10-29_14-04-43.zip,22,30,Walking
+Test_two-2026-10-29_14-04-43.zip,33,40,Standing
+Test_two-2026-10-29_14-04-43.zip,44,51,Still
+Test_two-2026-10-29_14-04-43.zip,54,61,Standing
